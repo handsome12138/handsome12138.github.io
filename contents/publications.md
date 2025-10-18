@@ -1,0 +1,1 @@
+- Treewidth of generalized Hamming graph, bipartite Kneser graph and generalized Petersen graph (<a href="https://arxiv.org/abs/2403.12549">arXiv:2403.12549</a>)
