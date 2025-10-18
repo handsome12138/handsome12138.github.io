@@ -1,1 +1,7 @@
-- Treewidth of generalized Hamming graph, bipartite Kneser graph and generalized Petersen graph (<a href="https://arxiv.org/abs/2403.12549">arXiv:2403.12549</a>)
+- A Polynomial Time Algorithm to Find Star Chromatic Index on Bounded Treewidth Graphs with Given Maximum Degree (<a href="https://link.springer.com/chapter/10.1007/978-981-97-7801-0_7" target="_blank">International Conference on Algorithmic Aspects in Information and Management,2024</a>)
+- Treewidth of generalized Hamming graph, bipartite Kneser graph and generalized Petersen graph (<a href="https://arxiv.org/abs/2403.12549" target="_blank">arXiv:2403.12549</a>)
+- Inversion Diameter and Treewidth (<a href="https://arxiv.org/abs/2407.15384" target="_blank">arXiv:2407.15384</a>)
+- Linear recoloring diameter of degenerate chordal graphs and bounded treewidth graphs (<a href="https://arxiv.org/abs/2509.15456" target="_blank">arXiv:2509.15456</a>)
+- Counting induced subgraphs with given intersection sizes (<a href="https://arxiv.org/abs/2509.15466" target="_blank">arXiv:2509.15466</a>)
+- Edge version of the inducibility via the entropy method (<a href="https://arxiv.org/abs/arXiv:2509.17502" target="_blank">arXiv:2509.17502</a>)
+- On Turán-type problems for Berge matchings (<a href="https://arxiv.org/abs/arXiv:2510.05422" target="_blank">arXiv:2510.05422</a>)
