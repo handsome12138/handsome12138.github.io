@@ -89,6 +89,19 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+section .main-body a {
+    color: #2f3c9f;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(47, 60, 159, 0.22);
+    transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+section .main-body a:hover,
+section .main-body a:focus {
+    color: var(--h-title-color);
+    border-bottom-color: currentColor;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
