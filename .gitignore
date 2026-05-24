@@ -1,0 +1,11 @@
+# LaTeX build output
+publication/*.aux
+publication/*.bbl
+publication/*.blg
+publication/*.log
+publication/*.out
+publication/*.pdf
+publication/*.synctex.gz
+
+# Local preview logs
+server.*.log

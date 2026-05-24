@@ -1,0 +1,10 @@
+- First Prize in China High School Biology Olympiad and China High School Physics Olympiad, 2017
+- China National Scholarship, Zhejiang University, 2019
+- Tang Lixin Scholarship, Zhejiang University, 2019
+- Nitori Scholarship, Zhejiang University, 2020
+- Meritorious Winner, Mathematical Contest in Modeling, COMAP, 2020 and 2021
+- First Prize in the East China Division and Second Prize in the National Final, WeChat Mini Program Application Development Competition, China Collegiate Computing Contest, 2021
+- China National Scholarship, Zhejiang University, 2021
+- Outstanding Graduate, Zhejiang University, 2022
+- Mathematics Department Scholarship, Second Class, Tsinghua University, 2024
+- Mathematics Department Scholarship, First Class, Tsinghua University, 2025

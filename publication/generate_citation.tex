@@ -1,0 +1,198 @@
+\documentclass[12pt]{article}% Math and Physical Sciences Reference Style
+%%\documentclass[sn-aps]{sn-jnl}% American Physical Society (APS) Reference Style
+
+% \usepackage{ctex}
+
+\usepackage{authblk} % \affil
+\usepackage{hyperref} % ref in PDF
+\usepackage{dsfont}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts,amssymb}
+\usepackage{extarrows}
+\usepackage{geometry}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{verbatim}
+\usepackage[utf8]{inputenc}
+\usepackage{mathtools} % coloneqq
+%\documentclass[11pt]{article}
+\oddsidemargin -0.04cm \evensidemargin -0.04cm \textheight 23.5cm
+\textwidth 17cm \topmargin 0.45cm \headheight 0 cm \headsep 0 cm
+\parskip 0.1 cm
+\def\baselinestretch{1.1}
+\def\vs{\vskip 1mm}
+\def\vsp{\vspace{0.2cm}}
+\def\vspp{\vspace{0.6cm}}
+\def\q{\hfill\rule{1ex}{1ex}}
+\def\0{\emptyset}
+\def\bs{\backslash}
+\def\sb{\subseteq}
+\def\se{\setminus}
+\def\p{{\bf Proof.} \quad}
+\def\q{\hfill\rule{1ex}{1ex}}
+\def\QEDopen{{\hfill\setlength{\fboxsep}{0pt}\setlength{\fboxrule}{0.2pt}\fbox{\rule[0pt]{0pt}{1.3ex}\rule[0pt]{1.3ex}{0pt}}}}
+\def\C{\overline{C}}
+\def\Pa{\overline{P}}
+\def\n{\noindent}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{cor}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{remark}[theorem]{Remark}
+\def\q{\hfill\rule{1ex}{1ex}}
+\newenvironment{proof}{{\noindent\it Proof.}}{\hfill $\square$\par}
+% \makeatletter
+% \newcommand{\rmnum}[1]{\romannumeral #1}
+% \newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+% \makeatother
+
+\DeclareMathOperator{\tw}{\mathrm{tw}}
+\DeclareMathOperator{\diam}{\mathrm{diam}}
+\DeclareMathOperator{\inv}{\mathrm{inv}}
+\DeclareMathOperator{\dist}{\mathrm{dist}}
+% \DeclareMathOperator{\dim}{\mathrm{dim}}
+% \renewcommand{\emph}[1]{\textbf{#1}}
+
+%  --- figure package ---
+\usepackage{graphicx}
+\renewcommand{\figurename}{Figure}
+
+% --- bold text packages ---
+% \usepackage{bm}
+
+
+% --- pseudo code packages ---
+% \usepackage{algorithm}
+% \usepackage{algorithmicx}
+% \usepackage{algpseudocode}
+
+% --- enumerate packages ---
+\usepackage{enumerate}
+
+% --- math packages ---
+\usepackage{
+	amsmath,			% Math Environments
+	amssymb,			% Extended Symbols
+	enumerate,		    % Enumerate Environments
+	graphicx,			% Include Images
+	lastpage,			% R\part{title}eference Lastpage
+	multicol,			% Use Multi-columns
+	multirow,			% Use Multi-rows
+	pifont,			    % For Checkmarks
+	% stmaryrd			% For brackets
+}
+
+%  ---- bibtex packages---
+% \usepackage{cite}
+\usepackage[numbers]{natbib}
+% \usepackage{biblatex}
+\renewcommand\refname{References}
+\renewcommand\abstractname{Abstract}
+
+% ------------------------
+
+% ----------- HERE BEGINS DOCUMENT ------
+
+\begin{document}
+
+% --- PAPER INFO ---
+
+\title{Generate my papers citations}
+% \author{
+%     {\small\bf Yichen Wang}\inst{1}\thanks{Department of Mathematical Sciences, Tsinghua University, Beijing 100084, China. email:  wangyich22@mails.tsinghua.edu.cn}\quad
+%     % {\small\bf Mengyu Cao}\thanks{email:  myucao@ruc.edu.cn}\quad
+%     % {\small\bf Zequn Lv}\thanks{email:  lvzq19@mails.tsinghua.edu.cn}\quad
+%     {\small\bf Haozhe Wang}\thanks{Department of Mathematical Sciences, Tsinghua University, Beijing 100084, China. email:  whz22@mails.tsinghua.edu.cn}\quad
+%     {\small\bf Yuxuan Yang}\thanks{School of Science, Beijing University of Posts and Telecommunications, Beijing 100876, China. email:  yangyx@bupt.edu.cn}\quad
+%     {\small\bf Mei Lu}\thanks{Department of Mathematical Sciences, Tsinghua University, Beijing 100084, China. email: lumei@tsinghua.edu.cn}\\
+%     % {\small Department of Mathematical Sciences, Tsinghua University, Beijing 100084, China.}\\
+%     % {\small Institute for Mathematical Sciences, Renmin University of China, Beijing 100086, China.}\\
+% }
+
+
+\author[1]{\small\bf Yichen Wang\thanks{E-mail:  wangyich22@mails.tsinghua.edu.cn}}
+% \author[2]{\small\bf Mengyu Cao\thanks{E-mail:  myucao@ruc.edu.cn}}
+% \author[1]{\small\bf Zequn Lv\thanks{E-mail:  lvzq19@mails.tsinghua.edu.cn}}
+\author[1]{\small\bf Haozhe Wang\thanks{E-mail:  whz22@mails.tsinghua.edu.cn}}
+\author[2]{\small\bf Yuxuan Yang\thanks{Correspondence Author. E-mail:  yangyx@bupt.edu.cn}}
+\author[1]{\small\bf Mei Lu\thanks{E-mail:  lumei@tsinghua.edu.cn}}
+
+
+%     {\quad
+%     {\small\bf Mengyu Cao}\thanks{email:  myucao@ruc.edu.cn}\quad
+%     {\small\bf Zequn Lv}\thanks{email:  lvzq19@mails.tsinghua.edu.cn}\quad
+%     {\small\bf Mei Lu}\thanks{email: lumei@tsinghua.edu.cn}\\
+% }
+
+\affil[1]{\small Department of Mathematical Sciences, Tsinghua University, Beijing 100084, China}
+\affil[2]{\small School of Science, Beijing University of Posts and Telecommunications, Beijing 100876, China}
+
+
+\date{}
+
+\maketitle
+% \baselineskip 16.3pt
+
+\begin{abstract}
+    abstract
+\end{abstract}
+
+%\textbf{AMS classification: }\textit{05C75, 05C65, 05C05}\vskip 0.3cm
+
+{\bf Keywords:}  inversion diameter; orientation; treewidth.
+\vskip.3cm
+
+
+
+% -------------------------------------------------------------
+% --------- Here begins INTRODUCTION SECTION ------------------
+\section{Introduction}
+
+
+\textbf{Published:}
+
+AAIM~\cite{10.1007/978-981-97-7801-0_7}
+
+Inversion Diameter and Treewidth
+~\cite{dmtcs:16074}
+
+entropy~\cite{wang2025edge}
+
+Hamming~\cite{hamming}
+
+Linear Recoloring~\cite{WANG2026115055}
+
+\textbf{Arxiv:}
+
+Counting predescribed intersection~\cite{2025arXiv250915466Z},
+
+Turan Berge matchings~\cite{2025arXiv251005422W},
+
+Square of path~\cite{2026arXiv260109454W}
+
+Hyper Chromatic~\cite{wang2026largestchromaticnumberffree}
+
+Induced path outerplanar~\cite{2026arXiv260411525W}
+
+Matching as trace~\cite{2026arXiv260411495W}
+
+Equal degree~\cite{2026arXiv260503825Z}
+
+Blow-ups of $\mathcal{F}_5$~\cite{2026arXiv260522397Z}
+
+ve-domination on graphs with bounded treewidth~\cite{2026arXiv260510487W}
+
+\bibliographystyle{wyc4}
+
+\bibliography{myref.bib}
+
+
+
+
+\end{document}

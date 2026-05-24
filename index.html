@@ -93,16 +93,24 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#home">HOME</a>
+                        <a class="nav-link me-lg-3" href="#home" data-i18n="nav.home">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
+                        <a class="nav-link me-lg-3" href="#awards" data-i18n="nav.awards">AWARDS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#experience">EXPERIENCE</a>
+                        <a class="nav-link me-lg-3" href="#experience" data-i18n="nav.experience">EXPERIENCE</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
+                        <a class="nav-link me-lg-3" href="#publications" data-i18n="nav.publications">PUBLICATIONS</a>
+                    </li>
+                    <li class="nav-item language-nav-item">
+                        <div class="language-switch" role="group" aria-label="Language switch">
+                            <button type="button" class="language-button active" data-lang="en"
+                                aria-pressed="true">EN</button>
+                            <button type="button" class="language-button" data-lang="zh"
+                                aria-pressed="false">中文</button>
+                        </div>
                     </li>
                 </ul>
             </div>
@@ -110,7 +118,7 @@
     </nav>
 
     <!-- Top Section -->
-    <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
+    <section class="top-section" style="background-image: url('static/assets/img/background.jpg');">
         <div class="top-section-content">
             <div class="container px-5">
                 <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
@@ -143,7 +151,7 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
         <div class="container px-5">
             <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
+                <h2 id="awards-subtitle" data-i18n="section.awards" data-i18n-html="true"><i class="bi bi-award-fill"></i>AWARDS </h2>
             </header>
             <div class="main-body" id="awards-md"></div>
 
@@ -155,7 +163,7 @@
     <section class="bg-gradient-primary-to-secondary-dark mt5 md5" id="experience">
         <div class="container px-5">
             <header>
-                <h2 id="experience-subtitle"><i class="bi bi-briefcase-fill"></i> EXPERIENCE </h2>
+                <h2 id="experience-subtitle" data-i18n="section.experience" data-i18n-html="true"><i class="bi bi-briefcase-fill"></i> EXPERIENCE </h2>
             </header>
             <div class="main-body" id="experience-md"></div>
         </div>
@@ -166,7 +174,7 @@
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
         <div class="container px-5">
             <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
+                <h2 id="publications-subtitle" data-i18n="section.publications" data-i18n-html="true"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
             </header>
             <div class="main-body" id="publications-md"></div>
 
@@ -179,10 +187,10 @@
         <div class="container px-5">
             <div class="text-white-50 small">
                 <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/senli1073">Github</a>
+                <a id="github-link" href="https://github.com/handsome12138">Github</a>
                 <span class="mx-1">&middot;</span>
                 <a id="license-link"
-                    href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
+                    href="https://github.com/handsome12138/handsome12138.github.io/blob/main/LICENSE">License</a>
             </div>
         </div>
     </footer>
