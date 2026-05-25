@@ -28,3 +28,9 @@ python -m http.server 8980 --bind 127.0.0.1
 ```
 
 Then open `http://127.0.0.1:8980/index.html`.
+
+## License and Attribution
+
+This homepage is adapted from [Yixin0313/personal-homepage-template](https://github.com/Yixin0313/personal-homepage-template), which is published under the MIT License.
+
+Local modifications in this repository are licensed under the MIT License unless otherwise noted. See [LICENSE](LICENSE) for the full license text and [NOTICE.md](NOTICE.md) for the upstream attribution.
