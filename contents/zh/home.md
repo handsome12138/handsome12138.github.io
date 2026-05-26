@@ -6,6 +6,13 @@
 #### 邮箱
 <code>wangyich22@mails.tsinghua.edu.cn</code>
 
+<div class="home-actions">
+    <a id="cv-download-link" class="btn btn-outline-primary cv-download-button" href="汪奕晨_CV.pdf" download="汪奕晨_CV.pdf">
+        <i class="bi bi-download me-2" aria-hidden="true"></i>
+        下载简历
+    </a>
+</div>
+
 #### 教育经历
 **浙江大学，杭州，中国**，2018-2022，数学与应用数学理学学士<br/>
 连续四年专业 GPA 排名第一。

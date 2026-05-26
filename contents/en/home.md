@@ -6,6 +6,13 @@ I am now visiting the Alfr&eacute;d R&eacute;nyi Institute of Mathematics in Bud
 #### Email
 <code>wangyich22@mails.tsinghua.edu.cn</code>
 
+<div class="home-actions">
+    <a id="cv-download-link" class="btn btn-outline-primary cv-download-button" href="汪奕晨_CV.pdf" download="汪奕晨_CV.pdf">
+        <i class="bi bi-download me-2" aria-hidden="true"></i>
+        Download CV
+    </a>
+</div>
+
 #### Education
 **Zhejiang University, Hangzhou, China**, 2018-2022, Bachelor of Science, Mathematics and Applied Mathematics<br/>
 Ranked 1st in GPA for four consecutive years.
