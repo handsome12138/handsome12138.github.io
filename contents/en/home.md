@@ -6,6 +6,8 @@ I am now visiting the Alfr&eacute;d R&eacute;nyi Institute of Mathematics in Bud
 #### Email
 <code>wangyich22@mails.tsinghua.edu.cn</code>
 
+I am currently abroad and may not be able to take phone calls. Please contact me by email.
+
 <div class="home-actions">
     <a id="cv-download-link" class="btn btn-outline-primary cv-download-button" href="汪奕晨_CV.pdf" download="汪奕晨_CV.pdf">
         <i class="bi bi-download me-2" aria-hidden="true"></i>

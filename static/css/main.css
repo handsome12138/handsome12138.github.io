@@ -119,6 +119,44 @@ section .main-body a:not(.btn):focus {
     line-height: 1;
 }
 
+.cv-preview {
+    max-width: 780px;
+}
+
+.cv-preview-frame {
+    display: block;
+    overflow: hidden;
+    border: 1px solid rgba(57, 72, 210, 0.22);
+    border-radius: 0.375rem;
+    background: #ffffff;
+    box-shadow: 0 0.7rem 2rem rgba(0, 0, 0, 0.08);
+}
+
+.cv-preview-image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.cv-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.cv-action-button {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 0.375rem;
+    font-weight: 700;
+    padding: 0.65rem 1rem;
+}
+
+.cv-action-button .bi {
+    line-height: 1;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
@@ -164,7 +202,11 @@ section .main-body a:not(.btn):focus {
 }
 
 #avatar img {
+    width: max(130px,min(200px,calc(100vw/6)));
     height: max(130px,min(200px,calc(100vw/6)));
+    object-fit: cover;
+    object-position: 40% center;
+    border-radius: 0.375rem;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 

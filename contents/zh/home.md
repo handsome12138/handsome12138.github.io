@@ -6,6 +6,8 @@
 #### 邮箱
 <code>wangyich22@mails.tsinghua.edu.cn</code>
 
+目前在国外，不便接听电话，请通过邮件联系。
+
 <div class="home-actions">
     <a id="cv-download-link" class="btn btn-outline-primary cv-download-button" href="汪奕晨_CV.pdf" download="汪奕晨_CV.pdf">
         <i class="bi bi-download me-2" aria-hidden="true"></i>

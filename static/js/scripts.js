@@ -1,6 +1,6 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'awards', 'experience', 'publications'];
+const section_names = ['home', 'cv', 'awards', 'experience', 'publications'];
 const supported_languages = ['en', 'zh'];
 const default_language = 'en';
 const language_storage_key = 'site-language';
@@ -9,11 +9,13 @@ const ui_text = {
     en: {
         nav: {
             home: 'HOME',
+            cv: 'CV',
             awards: 'AWARDS',
             experience: 'EXPERIENCE',
             publications: 'PUBLICATIONS',
         },
         section: {
+            cv: '<i class="bi bi-file-text-fill"></i>&nbsp;CV',
             awards: '<i class="bi bi-award-fill"></i>AWARDS ',
             experience: '<i class="bi bi-briefcase-fill"></i> EXPERIENCE ',
             publications: '<i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS',
@@ -22,11 +24,13 @@ const ui_text = {
     zh: {
         nav: {
             home: '主页',
+            cv: '简历',
             awards: '荣誉',
             experience: '经历',
             publications: '论文',
         },
         section: {
+            cv: '<i class="bi bi-file-text-fill"></i>&nbsp;简历',
             awards: '<i class="bi bi-award-fill"></i>荣誉 ',
             experience: '<i class="bi bi-briefcase-fill"></i> 经历 ',
             publications: '<i class="bi bi-file-text-fill"></i>&nbsp;论文',
