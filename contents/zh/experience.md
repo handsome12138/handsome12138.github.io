@@ -1,5 +1,5 @@
 ### 宽德智能学习实验室
-**Evaluation & Benchmarking 实习生 | 2026.6 至今**
+**Evaluation & Benchmarking 实习生 | 2026.6 - 2026.8**
 
 - 构建 Math-Research / Graph Theory 方向的高质量评测流程，通过 Evaluation Metric 找到模型不足。
 - 收集高质量数据集，设计可靠的 verify 流程，搭建自动化端到端评测。

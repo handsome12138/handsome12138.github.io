@@ -1,5 +1,5 @@
 ### Will - Wizard Intelligence Learning Lab
-**Evaluation & Benchmarking Intern | Jun. 2026 - Present**
+**Evaluation & Benchmarking Intern | Jun. 2026 - Aug. 2026**
 
 - Built high-quality evaluation workflows for Math Research and Graph Theory tasks, using evaluation metrics to identify model limitations.
 - Collected high-quality datasets, designed reliable verification pipelines, and built automated end-to-end evaluation workflows.
