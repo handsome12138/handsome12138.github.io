@@ -2,6 +2,7 @@
 
 I'm currently a Ph.D. student at Tsinghua University, Beijing, China, working in operations research and graph theory.
 I expect to graduate in June 2027.
+I am also currently interning at Huawei's Wireless Technology Laboratory in Hangzhou, China.
 From 2025 to 2026, I completed a one-year joint Ph.D. research visit at the Alfr&eacute;d R&eacute;nyi Institute of Mathematics in Budapest, Hungary.
 
 #### Email

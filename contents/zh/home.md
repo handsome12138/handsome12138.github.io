@@ -1,6 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-handsome12138-blue?logo=github)](https://github.com/handsome12138) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=UcN2sPAAAAAJ&hl=en)
 
 我目前是清华大学博士研究生，研究方向为运筹学与图论，预计 2027 年 6 月毕业。
+我目前也在杭州华为无线技术实验室实习。
 2025-2026 年，我在匈牙利布达佩斯的 Alfréd Rényi 数学研究所完成了为期一年的联合培养访问，研究方向为运筹学与图论。
 
 #### 邮箱
