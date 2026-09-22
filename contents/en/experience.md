@@ -1,5 +1,8 @@
-### Huawei Wireless Technology Laboratory, Hangzhou
-**Intern | Present**
+### Huawei Wireless Technology Laboratory (2012 Labs), Hangzhou
+**Intern | Sep. 2026 – Present**
+
+- Contribute to research on low-density parity-check (LDPC) code design for 6G, helping explore potential design approaches.
+- Explore applications of artificial intelligence in communications, investigating ways to integrate AI methods with communication technologies.
 
 ### Will - Wizard Intelligence Learning Lab
 **Evaluation & Benchmarking Intern | Jun. 2026 - Aug. 2026**
