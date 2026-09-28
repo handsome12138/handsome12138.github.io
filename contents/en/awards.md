@@ -8,3 +8,4 @@
 - Outstanding Graduate, Zhejiang University, 2022
 - Mathematics Department Scholarship, Second Class, Tsinghua University, 2024
 - Mathematics Department Scholarship, First Class, Tsinghua University, 2025
+- National Scholarship for Doctoral Students, Tsinghua University, 2026
