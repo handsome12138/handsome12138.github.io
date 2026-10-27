@@ -1,8 +1,9 @@
 ### Huawei Wireless Technology Laboratory (2012 Labs), Hangzhou
 **Intern | Sep. 2026 – Present**
 
-- Contribute to research on low-density parity-check (LDPC) code design for 6G, helping explore potential design approaches.
+- Optimize algorithms and implementations in the low-density parity-check (LDPC) code design pipeline, achieving an approximately 5× speedup in the GPU simulation pipeline and a 100× speedup in selected annealing search pipelines.
 - Explore applications of artificial intelligence in communications, investigating ways to integrate AI methods with communication technologies.
+- Streamline workflows by integrating pipelines, building a database, and incorporating AI into the design pipeline.
 
 ### Will - Wizard Intelligence Learning Lab
 **Evaluation & Benchmarking Intern | Jun. 2026 - Aug. 2026**

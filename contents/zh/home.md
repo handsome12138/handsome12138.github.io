@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-handsome12138-blue?logo=github)](https://github.com/handsome12138) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=UcN2sPAAAAAJ&hl=en)
 
 我目前是清华大学博士研究生，研究方向为运筹学与图论，预计 2027 年 6 月毕业。
-自 2026 年 9 月起，我在杭州华为无线技术实验室（2012 实验室）实习，参与面向 6G 的 LDPC 码设计研究，并探索人工智能在通信领域的应用。
+自 2026 年 9 月起，我在杭州华为无线技术实验室（2012 实验室）实习，通过算法与实现优化，实现 LDPC 码设计中 GPU 仿真链路约 5× 加速、部分退火搜索链路 100× 加速。同时，我探索人工智能在通信领域的应用，并通过链路整合、数据库搭建及 AI 融合优化工作流。
 2025-2026 年，我在匈牙利布达佩斯的 Alfréd Rényi 数学研究所完成了为期一年的联合培养访问，研究方向为运筹学与图论。
 
 #### 邮箱

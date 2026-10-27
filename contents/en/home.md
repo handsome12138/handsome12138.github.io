@@ -2,7 +2,7 @@
 
 I'm currently a Ph.D. student at Tsinghua University, Beijing, China, working in operations research and graph theory.
 I expect to graduate in June 2027.
-Since September 2026, I have been interning at Huawei's Wireless Technology Laboratory (2012 Labs) in Hangzhou, China, contributing to research on LDPC code design for 6G and exploring applications of AI in communications.
+Since September 2026, I have been interning at Huawei's Wireless Technology Laboratory (2012 Labs) in Hangzhou, China. Through algorithmic and implementation optimizations for LDPC code design, I have achieved an approximately 5× speedup in the GPU simulation pipeline and a 100× speedup in selected annealing search pipelines. I also explore AI applications in communications and streamline workflows through pipeline integration, database development, and the incorporation of AI into the design process.
 From 2025 to 2026, I completed a one-year joint Ph.D. research visit at the Alfr&eacute;d R&eacute;nyi Institute of Mathematics in Budapest, Hungary.
 
 #### Email
